@@ -1,1 +1,2 @@
-# code-structuring
+# synchronousBallMovement
+Ball moving synchronously
